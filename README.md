@@ -18,7 +18,7 @@ Après plusieurs recherches sur les sockets en C, j'ai cherché "segfault", il y
 </p>
 
 <br>
-J'ai d'abord cru à un easter egg de Google (comme [google in 1998](https://www.google.fr/search?hl=en&q=google+in+1998&cad=h)).
+J'ai d'abord cru à un easter egg de Google (comme <a href="https://www.google.fr/search?hl=en&q=google+in+1998&cad=h">google in 1998</a>).
 
 <br>
 <p align="center">
